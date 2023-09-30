@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AngularEjemplo_02';
+  title = 'AngularEjemplo_02_version2';
   duplicarNumero(n:number):number{
     return n*2;
   }
